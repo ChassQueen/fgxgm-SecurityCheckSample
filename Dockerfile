@@ -1,4 +1,4 @@
-FROM node:express@4.19.2
+FROM node:express@4.18.2
 
 RUN npm install -g npm@9.1.3
 
