@@ -1,4 +1,4 @@
-FROM node:express@5.0.0-beta.3
+FROM node:6781b458-5d5c-4ab9-b618-7da1c786715c
 
 RUN npm install -g npm@9.1.3
 
