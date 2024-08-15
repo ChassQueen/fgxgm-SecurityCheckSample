@@ -1,6 +1,6 @@
 {
   "name": "server",
-  "version": "5.0.0-beta.3",
+  "version": "express@4.19.2",
   "description": "",
   "main": "index.js",
   "scripts": {
