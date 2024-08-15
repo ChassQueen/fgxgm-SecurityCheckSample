@@ -1,4 +1,4 @@
-FROM node:22.6.0-slim
+FROM node:express@4.19.2, @5.0.0-beta.3
 
 RUN npm install -g npm@9.1.3
 
