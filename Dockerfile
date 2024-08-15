@@ -1,4 +1,4 @@
-FROM node:5.0.0-beta.3
+FROM node:SNYK-JS-EXPRESS-6474509
 
 RUN npm install -g npm@9.1.3
 
